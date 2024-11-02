@@ -1,5 +1,3 @@
 # Fourier Transform
 
-WIP
-
-Programs to animate fourier transform of sequences of points
+Programs to illustrating fourier transform for sequences of points on 2D plane.
